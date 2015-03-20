@@ -1,5 +1,5 @@
 require "dinosaurs/version"
+require 'dinosaurs/core_ext/kernel'
 
 module Dinosaurs
-  # Your code goes here...
 end
